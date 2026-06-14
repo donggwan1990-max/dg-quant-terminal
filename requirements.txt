@@ -1,0 +1,7 @@
+Plaintext
+streamlit
+pandas
+yfinance
+plotly
+gspread
+google-auth
